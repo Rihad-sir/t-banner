@@ -660,5 +660,5 @@ echo tack new session
 
 
 
-ctrl+c
+
 
