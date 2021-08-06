@@ -658,7 +658,7 @@ toilet CyBeR GuArD
 
 echo https://youtube.com/channel/UCTii8kyUd5s1ekCmjcGi43w
 
-echo Restart to apply changesroot@termux[</>]:
+
 
 echo tack new session 
 
