@@ -270,7 +270,7 @@ then
 
                 figlet RIHAD.WD
 
-                echo Now Your Termux is back to Original
+                echo Now Your Terminel is back to Original
 
                 echo "Uninstalled Succesfully"
 
@@ -636,25 +636,35 @@ echo Script made by
 
 toilet Rihad
 
-toilet NESSES CYBER ™
+toilet NESSES 
+
+toilet CYBER ™
 
 sleep 2
 
 echo This script maded for 
 
-toilet   you best hacking experience.
+echo   you best hacking experience.
 
-echo credited by NSSES cyber™
+echo credited by
+
+toilet NSSES cyber™
 
 cd $pdir
 
-echo Subscribe to our YT channel CyBeR GuArD
+echo Subscribe to our YT channel
+
+figlet CyBeR GuArD
 
 echo https://youtube.com/channel/UCTii8kyUd5s1ekCmjcGi43w
 
 echo Restart to apply changesroot@termux[</>]:
 
 echo tack new session 
+
+echo builders📝 Rihad / Althaf 
+
+echo ==============π•-NESSES CYBER™•π=============✓
 
 
 
