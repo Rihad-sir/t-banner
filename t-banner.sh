@@ -630,7 +630,7 @@ alias update=\"apt-get update;apt-get upgrade\"" > /data/data/com.termux/files/u
 
 cd /$HOME
 
-cd T-banner
+
 
 echo Script made by
 
@@ -654,7 +654,7 @@ cd $pdir
 
 echo Subscribe to our YT channel
 
-figlet CyBeR GuArD
+toilet CyBeR GuArD
 
 echo https://youtube.com/channel/UCTii8kyUd5s1ekCmjcGi43w
 
@@ -662,7 +662,7 @@ echo Restart to apply changesroot@termux[</>]:
 
 echo tack new session 
 
-echo builders📝 Rihad / Althaf 
+echo created by  Rihad / Althaf 
 
 echo ==============π•-NESSES CYBER™•π=============✓
 
