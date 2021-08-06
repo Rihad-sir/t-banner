@@ -502,7 +502,7 @@ updatedw() {
 
         else
 
-                git clone https://github.com/Rihad-sir/t-banner/edit/main/T-banner
+                git clone https://github.com/Rihad-sir/t-banner/edit/main/t-banner.sh
 
                 cd T-banner
 
@@ -530,7 +530,7 @@ txt() { cat \$1.*; }
 
 figlet $uname
 
-PS1='\033[1;91mroot@termux[\033[1;93m\W\033[1;91m]:
+PS1='\033[1;91mroot@terminel[\033[1;93m\W\033[1;91m]:
 
 # \033[1;92m'
 
