@@ -502,7 +502,7 @@ updatedw() {
 
         else
 
-                git clone https://github.com/Rihad-sir/t-banner/edit/main/t-banner.sh
+                git clone https://github.com/Rihad-sir/T-Banner/edit/main/t-banner.sh.git
 
                 cd T-banner
 
